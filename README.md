@@ -1,8 +1,16 @@
 # vue_shop_server
 Vue后台管理系统后台API接口
 端口8888
+## Project setup
+```
+npm install
+```
 
-####项目整体文件说明
+### Compiles and hot-reloads for development
+```
+node app.js
+```
+### 项目整体文件说明
 - `config` 配置文件目录
   - `default.json` 默认配置文件（其中包含数据库配置，jwt配置）
 - `dao` 数据访问层，存放对数据库的增删改查操作
