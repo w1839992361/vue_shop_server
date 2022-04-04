@@ -6,7 +6,7 @@ Vue后台管理系统后台API接口
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Project start
 ```
 node app.js
 ```
